@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RMastermindCSharp", "C#\RMastermindCSharp.csproj", "{38B94705-6F96-4941-A2E5-8CEF2D5F344B}"
-EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "RMastermindVB", "VB\RMastermindVB.vbproj", "{146E4584-F3F8-4D95-8EE0-4C01E6964D8B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RMLib", "..\DLL\RMLib\RMLib.csproj", "{C57F0D98-F290-42C1-97BD-CD85B47A2FB4}"
 EndProject
@@ -31,18 +31,6 @@ Global
 		{38B94705-6F96-4941-A2E5-8CEF2D5F344B}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{38B94705-6F96-4941-A2E5-8CEF2D5F344B}.Release|x64.ActiveCfg = Release|Any CPU
 		{38B94705-6F96-4941-A2E5-8CEF2D5F344B}.Release|x86.ActiveCfg = Release|Any CPU
-		{146E4584-F3F8-4D95-8EE0-4C01E6964D8B}.Debug|Any CPU.ActiveCfg = Debug|x86
-		{146E4584-F3F8-4D95-8EE0-4C01E6964D8B}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
-		{146E4584-F3F8-4D95-8EE0-4C01E6964D8B}.Debug|Mixed Platforms.Build.0 = Debug|x86
-		{146E4584-F3F8-4D95-8EE0-4C01E6964D8B}.Debug|x64.ActiveCfg = Debug|x86
-		{146E4584-F3F8-4D95-8EE0-4C01E6964D8B}.Debug|x86.ActiveCfg = Debug|x86
-		{146E4584-F3F8-4D95-8EE0-4C01E6964D8B}.Debug|x86.Build.0 = Debug|x86
-		{146E4584-F3F8-4D95-8EE0-4C01E6964D8B}.Release|Any CPU.ActiveCfg = Release|x86
-		{146E4584-F3F8-4D95-8EE0-4C01E6964D8B}.Release|Mixed Platforms.ActiveCfg = Release|x86
-		{146E4584-F3F8-4D95-8EE0-4C01E6964D8B}.Release|Mixed Platforms.Build.0 = Release|x86
-		{146E4584-F3F8-4D95-8EE0-4C01E6964D8B}.Release|x64.ActiveCfg = Release|x86
-		{146E4584-F3F8-4D95-8EE0-4C01E6964D8B}.Release|x86.ActiveCfg = Release|x86
-		{146E4584-F3F8-4D95-8EE0-4C01E6964D8B}.Release|x86.Build.0 = Release|x86
 		{C57F0D98-F290-42C1-97BD-CD85B47A2FB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C57F0D98-F290-42C1-97BD-CD85B47A2FB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C57F0D98-F290-42C1-97BD-CD85B47A2FB4}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
